@@ -8,6 +8,7 @@ def create():
     if request.method == 'POST':
         title = request.form['title']
         content = request.form['content']
+        
 
         if not title:
             flash('Title is required!')
