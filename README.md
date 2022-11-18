@@ -4,7 +4,7 @@ Personal Expense Tracker Application
 Category : Cloud App Development
 
 Team Member     	Name            
-Team Lead   	 Gokhulavasan V      
+Team Lead   	 Gokhulavaasan V      
 Team Member 1  Gopinath k	         
 Team Member 2  Gunanithi M	     
 Team Member 3  Hari v	   
